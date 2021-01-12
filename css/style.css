@@ -10,3 +10,13 @@
 .btn-bg{
     background-image: linear-gradient(#FF4F96,#FF136F);
 }
+.card-style{
+    border: none;
+    background-color: white;
+}
+.input-width{
+    width: 360px;
+}
+.input-border{
+    width: 100%;
+}
