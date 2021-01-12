@@ -20,3 +20,10 @@
 .input-border{
     width: 100%;
 }
+.bg-style{
+    height: 300px;
+    background-color: #FCEAE8;
+}
+.border-radius{
+    border-radius: 10px;
+}
